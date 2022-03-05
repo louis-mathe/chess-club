@@ -1,0 +1,26 @@
+@import url("components/asset1.css");
+@import url("components/asset2.css");
+@import url("components/asset3.css");
+@import url("components/asset4.css");
+@import url("components/asset5.css");
+@import url("components/asset6.css");
+@import url("components/asset7.css");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap");
+
+body {
+	font-family: 'Libre Baskerville', serif;
+	font-size: 18px;
+	margin: 0px;
+	color: #222222;
+}
+
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+}
+
+a {
+	text-decoration: none;
+}
+
